@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Pelatihan hari pertama RND</title>
+	<title>Pelatihan hari pertama RND diulang dihari ke-2</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/sweetalert2@9.17.2/dist/sweetalert2.min.css">
 </head>
